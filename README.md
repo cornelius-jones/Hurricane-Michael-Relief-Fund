@@ -1,4 +1,4 @@
-# Front-end development 1 KSU project 
+# Kennesaw State University Front-end development 1 project 
 
 ### Hurricane Michael Relief Fund
 
